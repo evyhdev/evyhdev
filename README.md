@@ -19,12 +19,7 @@
 
 ---
 
-### 🧩 Projetos em destaque
-- [Portfólio Pessoal (em construção)](https://github.com/evyhdev/portfolio)
-- [Cadastro de Microempresas - Google Negócios](https://github.com/evyhdev/google-negocios)
-- [Projetos de estudos Front-end](https://github.com/evyhdev/front-end-estudos)
 
----
 
 📫 Me encontre em:  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evyhdev)  
