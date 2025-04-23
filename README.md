@@ -19,7 +19,7 @@
 
 ---
 
-
+![Evely GitHub stats](https://github-readme-stats.vercel.app/api?username=evyhdev&show_icons=true&theme=radical)
 
 📫 Me encontre em:  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evyhdev)  
