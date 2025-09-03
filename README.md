@@ -1,7 +1,7 @@
 <div align="center">
 
 <h2>Hello World! Welcome to my GitHub.</h2>
-<p>I'm Evely Paz.</p> <!-- Linha adicionada -->
+<h3>I'm Evely Paz</h3>
 
 <p>I'm a programming enthusiast, studying Systems Information, passionate about front-end development and software development. I love creating interactive interfaces and learning new technologies every day!</p>
 
@@ -31,10 +31,13 @@
 <div>
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-</div>
-
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
+###
+
+![snake gif](https://github.com/evyhdev/evyhdev/blob/output/github-contribution-grid-snake.svg)
+
 </div>
+
