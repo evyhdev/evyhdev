@@ -1,43 +1,60 @@
 <div align="center">
 
-<h2>Hello World! Welcome to my GitHub.</h2>
-<h3>I'm Evely Paz</h3>
+## 🌸 Hi there, I'm Evely Paz!
+<img src="https://readme-typing-svg.herokuapp.com?font=Fugaz+One&pause=300&color=FF69B4&center=true&width=500&lines=Information+Systems+Student;Front-End+Enthusiast"/>
 
-<p>I'm a programming enthusiast, studying Systems Information, passionate about front-end development and software development. I love creating interactive interfaces and learning new technologies every day!</p>
+<p>I'm a passionate programmer and front-end enthusiast, creating <b>interactive and elegant interfaces</b>.  
+Currently, I work with <b>React, HTML, CSS, Golang, C, and Java</b> while expanding my skills in other technologies.</p>
 
-###
+<br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=evyhdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=evyhdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+### 🌷 About Me
+<p align="center" style="background-color:#ffe6f0; padding:12px; border-radius:12px; font-size:16px;">
+I'm Evely Paz, 19, an Information Systems student from Quixadá-CE.  
+I enjoy designing digital experiences and learning new frameworks and languages.  
+I also have experience in design and process management, which shaped my versatile skill set.
+</p>
 
-###
+<br>
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="golang logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+### 💻 Languages & Tools
+<p align="center" style="background-color:#ffe6f0; padding:12px; border-radius:12px; font-size:16px;">
+
+![C](https://img.shields.io/badge/C-FF69B4?style=for-the-badge&logo=c&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-FF1493?style=for-the-badge&logo=go&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-FF69B4?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-FF1493?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-FF69B4?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/Java-FF1493?style=for-the-badge&logo=java&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-FF69B4?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-FF1493?style=for-the-badge&logo=canva&logoColor=white)
+
+</p>
+
+<br>
+
+### 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=evyhdev&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=evyhdev&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top languages" />
+</p>
+
+<br>
+
+### 📬 Let's connect
+<div align="center">
+  <a href="https://www.instagram.com/evyhdev/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/evyhdev/" target="_blank"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:evelypaz2010@gmail.com"> 
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://discord.com/users/evyh7848" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
 </div>
 
-###
-
-<div>
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
-
-###
-
-![snake gif](https://github.com/evyhdev/evyhdev/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
