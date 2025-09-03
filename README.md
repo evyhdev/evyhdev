@@ -27,7 +27,7 @@ Currently, I'm focusing on <b>front-end development</b> while expanding my knowl
 
 ### 📬 Let's connect:
 <div align="center">
-  <a href="https://www.instagram.com/evyhdev/" target="_blank"> 
+  <a href="https://www.instagram.com/evelypaz_/" target="_blank"> 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/evyhdev/" target="_blank"> 
