@@ -26,7 +26,7 @@ Nesta seção, compartilho alguns dos desafios que transformei em soluções atr
 
 ### ✂️ [BarberKlub](https://www.figma.com/design/2sRKaLL3gX0e3OubJpFFiq/Sem-t%C3%ADtulo?node-id=0-1&t=nBybowzX42Ygqjai-1)
 > **Papel:** UX/UI Design & Front-end Developer <br>
-> Sistema completo de agendamento. Atuei de ponta a ponta no ciclo de vida do produto: iniciei no **levantamento de requisitos**, criei a **prototipação de alta fidelidade** e implementei o **desenvolvimento front-end**.
+> Sistema completo de agendamento, **atualmente em desenvolvimento**. Atuei de ponta a ponta: iniciei no **levantamento de requisitos**, criei a **prototipação de alta fidelidade** e sigo trabalhando no **desenvolvimento front-end**.
 
 ### 📱 [PegaPista!](https://www.figma.com/design/k7ti9H85Rqw8hvRAJ6UBzR/App-de-Corrida?node-id=0-1&t=HXCLkvAJlBhpp2bk-1)
 > **Papel:** UX/UI Designer <br>
@@ -36,9 +36,9 @@ Nesta seção, compartilho alguns dos desafios que transformei em soluções atr
 > **Papel:** UX/UI Designer <br>
 > Protótipo de alta fidelidade desenvolvido para um projeto acadêmico. Consiste em um sistema web focado no **controle de qualidade e gestão de produção** de uma fábrica de gesso, com dashboards de dados intuitivos.
 
-### ⚡ [MJ Geradores](https://www.figma.com/proto/DWyuR5SJ5aK5rtUpH7xPaJ/Sem-t%C3%ADtulo?node-id=0-1&t=Ivqz33gAJCsBVhDv-1)
-> **Papel:** UX/UI Designer <br>
-> Site institucional com informações estratégicas para uma empresa de aluguel de geradores. Este foi o meu **primeiro projeto de design** desenvolvido para a empresa júnior **AvanteTech Jr**, focado em transmitir credibilidade e facilitar o contato do cliente.
+### ⚡ [MJ Geradores](https://www.figma.com/design/DWyuR5SJ5aK5rtUpH7xPaJ/MJGeradores?node-id=0-1&t=Ivqz33gAJCsBVhDv-1)
+> **Papel:** UX/UI Design & Front-end Developer <br>
+> Site institucional com informações estratégicas para uma empresa de aluguel de geradores. Este foi o meu **primeiro projeto de design e desenvolvimento front-end** criado para a empresa júnior **AvanteTech Jr**, focado em transmitir credibilidade e facilitar o contato do cliente.
 
 ---
 
