@@ -52,12 +52,22 @@ Nesta seção, compartilho alguns dos desafios que transformei em soluções atr
 
 ---
 
-## 📊 Como eu codifico
+## 📊 Minhas Estatísticas e Atividade
 
 <div align="center">
   <a href="https://github.com/evyhdev">
+    <img src="https://github-profile-trophy.vercel.app/?username=evyhdev&theme=dracula&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
+  <br><br>
+
+  <a href="https://github.com/evyhdev">
     <img src="https://github-readme-stats-fast.vercel.app/api?username=evyhdev&show_icons=true&theme=dracula&hide_border=true" height="150" alt="Estatísticas do GitHub" />
     <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=evyhdev&layout=compact&langs_count=5&theme=dracula&hide_border=true" height="150" alt="Linguagens mais usadas" />
+  </a>
+  <br><br>
+
+  <a href="https://github.com/evyhdev">
+    <img src="https://streak-stats.demolab.com?user=evyhdev&theme=dracula&hide_border=true" height="150" alt="GitHub Streak" />
   </a>
 </div>
 
