@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/evyhdev/evyhdev/main/assets/gif.gif" width="150" alt="Evely Paz Animation" />
   
-  <h1>Olá! Eu sou a Evely Paz 👋</h1>
+  <h1>Olá! Eu sou a Evely Paz</h1>
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fugaz+One&pause=300&color=FF69B4&center=true&width=500&lines=Information+Systems+Student+@UFC;UX/UI+Designer+@AvanteTech+Jr;React+%26+TypeScript+Developer" alt="Typing SVG" />
 </div>
@@ -48,10 +48,8 @@ Sou graduanda em **Sistemas de Informação** pela UFC e apaixonada por criar in
 
 | Projeto | Descrição e Papel |
 | :--- | :--- |
-| ✂️ **[BarberKlub](#)** | Sistema de agendamento. Atuei de ponta a ponta: desde o **levantamento de requisitos** e **prototipação de alta fidelidade** até o **desenvolvimento front-end**. |
-| 🎨 **[Design Systems](#)** | Criação e documentação focada em **componentes reutilizáveis** e rigorosos padrões de **acessibilidade (WCAG)**. |
-
-> 💡 *Não se esqueça de substituir o `"#"` pelos links reais dos repositórios ou protótipos do Figma nos seus projetos acima!*
+| ✂️ **[BarberKlub](https://www.figma.com/design/2sRKaLL3gX0e3OubJpFFiq/Sem-t%C3%ADtulo?node-id=0-1&t=nBybowzX42Ygqjai-1)** | Sistema de agendamento. Atuei de ponta a ponta: desde o **levantamento de requisitos** e **prototipação de alta fidelidade** até o **desenvolvimento front-end**. |
+| 🏭 **[JAS Gesso](https://www.figma.com/design/mZlH9Iu9m9fjvRzTEKcoMq/JAS-Gesso?node-id=0-1&t=0uErjcuVX2ds6f8M-1)** | Protótipo de alta fidelidade desenvolvido no Figma para um projeto acadêmico. Consiste em um sistema web focado no **controle de qualidade e quantidade de produção** de uma fábrica de gesso. |
 
 ---
 
